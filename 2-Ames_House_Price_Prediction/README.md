@@ -31,11 +31,11 @@ External (Deck, pool, porch etc.)
 
 It's almost a normal distribution with a slight positive skewness due to outliers. It shows that very small number of houses have high pricess. As we want our target variable as normal as possible, it is a good idea to apply log transformation which reduces the impact of positive skewness.
 
-![Price Dist](/images/price_dist.jpg)
+![Price Dist](./images/price_dist.jpg)
 
 Log Price Distribution
 
-![Price Dist](/images/price_dist.jpg)
+![Price Dist](./images/price_dist.jpg)
 
 ## 2) Data Cleaning & EDA
 
