@@ -85,13 +85,13 @@ There are various quantitative fields with different unit measurements (sqft, ag
 27) Sale Type_WD
 28) Garage Quality * Condition
 
-![Scaled Coefficients](./images/coefs-scaled.jpg)
+![Scaled Coefficients](./images/coefs-scaled.JPG)
 
 The model performed in a way that 91.6% variance on train data, 89.8% on test data could be explained by final model. When I submitted the unseen data result to Kaggle for evaluation, the root mean square error was $23,463.
 
 **Actual Price vs Predictions Distribution**
 
-![ActualPrice Predictions Dist](./images/model.jpg)
+![ActualPrice Predictions Dist](./images/model.JPG)
 
 ## 3) Summary
 
