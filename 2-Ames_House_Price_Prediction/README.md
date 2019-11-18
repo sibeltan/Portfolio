@@ -31,11 +31,11 @@ External (Deck, pool, porch etc.)
 
 It's almost a normal distribution with a slight positive skewness due to outliers. It shows that very small number of houses have high pricess. As we want our target variable as normal as possible, it is a good idea to apply log transformation which reduces the impact of positive skewness.
 
-![Price Dist](./images/price_dist.jpg)
+![Price Dist](./images/price_dist.JPG)
 
 Log Price Distribution
 
-![Price Dist](./images/price_dist.jpg)
+![Price Dist](./images/price_dist.JPG)
 
 ## 2) Data Cleaning & EDA
 
@@ -85,13 +85,13 @@ There are various quantitative fields with different unit measurements (sqft, ag
 27) Sale Type_WD
 28) Garage Quality * Condition
 
-![Scaled Coefficients](/images/coefs-scaled.jpg)
+![Scaled Coefficients](./images/coefs-scaled.jpg)
 
 The model performed in a way that 91.6% variance on train data, 89.8% on test data could be explained by final model. When I submitted the unseen data result to Kaggle for evaluation, the root mean square error was $23,463.
 
 **Actual Price vs Predictions Distribution**
 
-![ActualPrice Predictions Dist](/images/model.jpg)
+![ActualPrice Predictions Dist](./images/model.jpg)
 
 ## 3) Summary
 
