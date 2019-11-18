@@ -48,12 +48,16 @@ I created function to process and optimize the data to get best performance from
 ✓  Removed non-letter characters  
 ✓  Lemmatize words (WordNet Lemmatizer)  
 
+**Sentiment Analysis**
+
+![Composite_Sentiment_Distribution](./images/sentiment.JPG) 
+
 Classification Modeling:
 I generated several Logistic Regression, Multinomial NB, Gaussian NB, Decision Tree, and Random forest estimator models combining with several preprossesing transformers. Using Pipeline and GridSearch allowed me to run several models with least lines of code in order to come up with best combination.  
 
-Model 1- Count Vectorizer & Logistic Regression
+Model 1- Count Vectorizer & Logistic Regression  
 Accuracy Score = Train: 93.6%, Test: 90.6%  
-Model 2- Tfidf Vectorizer & Logistic Regression 
+Model 2- Tfidf Vectorizer & Logistic Regression   
 Accuracy Score = Train: 93.8%, Test: 90.1%  
 Model 3- Count Vectorizer & Multinomial Naive Bayes  
 Accuracy Score = Train: 95.5%, Test: 92.9%  
@@ -66,7 +70,13 @@ Accuracy Score = Train: 88.6%, Test: 83.9%
 
 ![Models_Accuracy_Scores](./images/models.JPG)  
 
-My fifth model performed the best as the features include numerical composite sentiment score. 
+My fifth model, logistic regression with count vectorizer transformer, performed the best as composite sentiment score was chosen as a numerical feature that has substential coefficient weight in classification.
+
+![Probability_Distribution](./images/distprob.JPG)  
+
+Sensitivity and Specifity scores are close to each other which means our predicted false positives and false negatives are balanced.
+
+![Confusion_Matrix](./images/confusion_matrix.JPG) 
 
 ### Summary
 - People’s language, sentiment, and behaviour from textual content can be
