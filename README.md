@@ -7,19 +7,19 @@ My data science &amp; machine learning portfolio projects.
 
 Data analysis on aggregate SAT and ACT scores and participation rates from each state in the United States to identify trends and likely factors influencing participation rates and scores. 
 
-## 2- Ames House Price Prediction
+## [2- Ames House Price Prediction](https://github.com/sibeltan/Portfolio_Projects/tree/master/2-Ames_House_Price_Prediction)
 
 **Data Cleaning, Data Visualization, EDA, Feature Engineering, Linear Regression Modeling.**  
 
 Building a regression model based on the Ames Housing Dataset in order to predict house prices at sale.
 
-## 3- Reddit NLP CLassification  
+## [3- Reddit NLP CLassification](https://github.com/sibeltan/Portfolio_Projects/tree/master/3-Reddit_NLP_Classification)  
 
 **Web Scraping, Data Cleaning, Data Visualization, EDA, Feature Engineering, Natural Language Processing, Binary Classification Modeling.** 
 
 Building a classification model based on Reddit data in order to predict which subreddit a particular post belongs to.
 
-## 4- Rapid Fire Alert System Utilizing Social Media
+## [4- Rapid Fire Alert System Utilizing Social Media](https://github.com/sibeltan/Portfolio_Projects/tree/master/4-Rapid_Fire_Alert_System)
 
 **Web Scraping, Data Cleaning, Data Visualization, EDA, Feature Engineering, Natural Language Processing, Binary Classification Modeling, Time Series Analysis, Flask Web Application.**  
 
