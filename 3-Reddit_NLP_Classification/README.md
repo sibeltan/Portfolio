@@ -78,6 +78,10 @@ Sensitivity and Specifity scores are close to each other which means our predict
 
 ![Confusion_Matrix](./images/confusion_matrix.JPG) 
 
+**ROC Curve**
+
+![ROC](./images/roc.JPG) 
+
 ### Summary
 - People’s language, sentiment, and behaviour from textual content can be
 classified by choosing right techniques
