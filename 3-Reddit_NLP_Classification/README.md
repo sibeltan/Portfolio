@@ -62,7 +62,9 @@ Accuracy Score = Train: 92.5%, Test: 90.1%
 Model 5- Function Transformer & Count Vectorizer & Logistic Regression (text and numeric data)   
 Accuracy Score = Train: 97.2%, Test: 94.9%   
 Model 6- Count Vectorizer & Decision Tree   
-Accuracy Score = Train: 88.6%, Test: 83.9%   
+Accuracy Score = Train: 88.6%, Test: 83.9%  
+
+![Models_Accuracy_Scores](./images/models.JPG)  
 
 My fifth model performed the best as the features include numerical composite sentiment score. 
 
