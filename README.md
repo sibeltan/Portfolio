@@ -25,7 +25,7 @@ Building a classification model based on Reddit data in order to predict which s
 
 Creating an alert system that utilizes social media activity to identify when an emergency first occurs.
 
-## [5- Pneumonia Detection by X-Ray Images](https://github.com/sibeltan/Portfolio/tree/master/5-Pneumonia_Detection)
+## [5- Pneumonia Detection by X-Ray Images](https://github.com/sibeltan/Portfolio/tree/master/5-Pneumonia_Detection_by_XRay)
 
 **Data Visualization, Data Augmentation, Coomputer Vision, Image Processing, Convolutional Neural Network, Transfer Learning, Multi-class Classification, Flask Web Application.**  
 
