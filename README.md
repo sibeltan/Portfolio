@@ -1,5 +1,5 @@
-# Portfolio_Projects
-My data science &amp; machine learning portfolio projects.
+# Portfolio Projects
+My data science &amp; machine learning practice projects that I completed during data science immersive bootcamp between Sep - Dec 2019.
 
 ## [1- SAT & ACT Analysis](https://github.com/sibeltan/Portfolio/tree/master/1-SAT_ACT_Analysis) 
 
@@ -30,4 +30,3 @@ Creating an alert system that utilizes social media activity to identify when an
 **Data Visualization, Data Augmentation, Coomputer Vision, Image Processing, Convolutional Neural Network, Transfer Learning, Multi-class Classification, Flask Web Application.**  
 
 Building a convolutional neural network to detect bacterial or viral pneumonia from patient's chest X-ray iamges  through a web applicaiton.
-
